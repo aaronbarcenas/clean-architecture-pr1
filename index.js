@@ -24,3 +24,8 @@ dbConnect()
     - Delete /koders/:id koders.findByIDANdDELETE()
 
     */
+
+/* 
+  autenticacion:
+*/
+
